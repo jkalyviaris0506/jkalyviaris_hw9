@@ -1,3 +1,5 @@
 # jkalyviaris_hw9
 
 For this project I constructed a website form survey to gather data for the analytics department to gain a better insight on thier population.
+
+Your survey is designed to be user-friendly by following best practices in form design, accessibility, and responsiveness. It utilizes autofocus to improve efficiency by automatically selecting the first input field, allowing users to begin typing immediately. Required field validation ensures that users provide necessary information, reducing errors and incomplete submissions. The form is also built with Bootstrap 5.3, making it fully responsive, adapting seamlessly to both desktop and mobile screens for a smooth experience. Additionally, the inclusion of Font Awesome icons and a tooltip help option enhances usability by providing clear visual cues and assistance where needed. By following WCAG 2.1, level AA guidelines, the form is accessible to all users, including those with disabilities, ensuring a more inclusive and seamless experience.
