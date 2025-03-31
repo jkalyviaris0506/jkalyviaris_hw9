@@ -1,0 +1,10 @@
+body {
+  background: rgb(241, 240, 240);
+  color: black;
+  margin: 20px;
+}
+
+.text {
+  width: 40%;
+  margin: right;
+}
